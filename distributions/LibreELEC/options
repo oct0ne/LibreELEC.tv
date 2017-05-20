@@ -1,5 +1,5 @@
 # Name of the Distro to build (full name, without special characters)
-  DISTRONAME="LibreELEC"
+  DISTRONAME="DV"
 
 # short project description
   DESCRIPTION="LibreELEC is a fast and user-friendly Kodi media centre distribution."
