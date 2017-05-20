@@ -2,17 +2,17 @@
   DISTRONAME="DV"
 
 # short project description
-  DESCRIPTION="LibreELEC is a fast and user-friendly Kodi media centre distribution."
+  DESCRIPTION="DVC is a fast and user-friendly  media centre distribution."
 
 # Welcome Message for e.g. SSH Server (up to 5 Lines)
   GREETING0="##############################################"
-  GREETING1="#                 LibreELEC                  #"
-  GREETING2="#            http://libreelec.tv             #"
+  GREETING1="#                 DV                  #"
+  GREETING2="#            http://dv.com             #"
   GREETING3="##############################################"
   GREETING4=""
 
 # Root password to integrate in the target system
-  ROOT_PASSWORD="libreelec"
+  ROOT_PASSWORD="repofmaldives"
 
 # Install glibc locales to the build (yes / no)
   GLIBC_LOCALES="yes"
